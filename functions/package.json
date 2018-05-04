@@ -13,6 +13,7 @@
   "dependencies": {
     "@google/maps": "^0.4.6",
     "@types/googlemaps": "^3.30.8",
+    "firebase": "^4.13.1",
     "firebase-admin": "~5.12.0",
     "firebase-functions": "^1.0.1",
     "ngeohash": "^0.6.0"
